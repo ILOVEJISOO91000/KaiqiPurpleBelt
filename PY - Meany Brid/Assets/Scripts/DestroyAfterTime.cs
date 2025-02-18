@@ -5,6 +5,8 @@ using UnityEngine;
 public class DestroyAfterTime : MonoBehaviour
 {
     // Start is called before the first frame update
+    [Header("Default Destruction Time")]
+    public f
     void Start()
     {
 
