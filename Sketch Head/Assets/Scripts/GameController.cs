@@ -9,7 +9,7 @@ public class GameController : MonoBehaviour {
     public GameObject platform;
     public float yPos = 0;
 
-    [Header("Game Over UI Cancas Object")]
+    [Header("Game Over UI Canvas Object")]
     public GameObject gameOverCanvas;
 
     // Start is called before the first frame update
